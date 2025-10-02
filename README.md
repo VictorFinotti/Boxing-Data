@@ -15,9 +15,9 @@
 **Stakeholders**: Companies focused growing and transforming sport as a vehicle for social impact  
 
 ## 📊 Dataset
-| Source | Size     | Time Period | Key Variables                         |
-|--------|----------|-------------|---------------------------------------|
-| https://boxing-data.com | 101 x 12 | up to date  | JSON clean, parsing and serialization |  
+| Source | Size     | Time Period |            
+|--------|----------|-------------|
+| https://boxing-data.com | 101 x 12 | up to date  |
 
 **Data Dictionary**:
 ```csv
