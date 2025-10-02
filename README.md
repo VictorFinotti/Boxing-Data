@@ -33,5 +33,3 @@ Winrate, float, Boxer Wins/Total_Bouts
 Total_Rounds, float, Sum of Boxer rounds in the Ring
 Ko_Wins, int, Boxer Number of Wins by Knockout
 Ko_Percentage, int, Ko_wins/Total_Bouts*100
-
-Changing Account
