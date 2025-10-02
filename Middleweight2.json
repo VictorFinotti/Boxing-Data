@@ -1,0 +1,2991 @@
+[
+    {
+        "name": "Zaur Abdullaev",
+        "age": 30,
+        "gender": "m",
+        "height": "5' 9\" / 175 cm",
+        "nationality": "Russia",
+        "nickname": null,
+        "reach": "71.7\" / 182 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 20,
+            "losses": 2,
+            "draws": 0,
+            "total_bouts": 22,
+            "ko_percentage": 60,
+            "ko_wins": 12,
+            "stopped": 1
+        },
+        "debut": "2017",
+        "id": "6715fc1eaf69bb50508b795f",
+        "division": {
+            "name": "Lightweight",
+            "slug": "lightweight",
+            "weight_lb": 135,
+            "weight_kg": 61.23,
+            "id": "671513530ad13034eb882652"
+        },
+        "titles": []
+    },
+    {
+        "name": "Masood Abdulah",
+        "age": 31,
+        "gender": "m",
+        "height": "5' 7\" / 170 cm",
+        "nationality": "United Kingdom",
+        "nickname": null,
+        "reach": "-",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 11,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 12,
+            "ko_percentage": 64,
+            "ko_wins": 7,
+            "stopped": 0
+        },
+        "debut": "2021",
+        "id": "6715fc1eaf69bb50508b795e",
+        "division": {
+            "name": "Featherweight",
+            "slug": "featherweight",
+            "weight_lb": 126,
+            "weight_kg": 57.15,
+            "id": "671513530ad13034eb882650"
+        },
+        "titles": []
+    },
+    {
+        "name": "Arthur Abraham",
+        "age": 44,
+        "gender": "m",
+        "height": "5' 9\" / 175 cm",
+        "nationality": "Germany",
+        "nickname": null,
+        "reach": "72\" / 183 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 47,
+            "losses": 6,
+            "draws": 0,
+            "total_bouts": 53,
+            "ko_percentage": 64,
+            "ko_wins": 30,
+            "stopped": 2
+        },
+        "debut": "2003",
+        "id": "6715fc1eaf69bb50508b7960",
+        "division": {
+            "name": "Super Middleweight",
+            "slug": "super-middleweight",
+            "weight_lb": 168,
+            "weight_kg": 76.2,
+            "id": "671513530ad13034eb882657"
+        },
+        "titles": []
+    },
+    {
+        "name": "Efe Ajagba",
+        "age": 30,
+        "gender": "m",
+        "height": "6' 5\" / 196 cm",
+        "nationality": "Nigeria",
+        "nickname": null,
+        "reach": "88.2\" / 224 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 20,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 21,
+            "ko_percentage": 80,
+            "ko_wins": 16,
+            "stopped": 0
+        },
+        "debut": "2017",
+        "id": "6715fc1eaf69bb50508b7967",
+        "division": {
+            "name": "Heavyweight",
+            "slug": "heavyweight",
+            "weight_lb": null,
+            "weight_kg": null,
+            "id": "671513530ad13034eb88265a"
+        },
+        "titles": []
+    },
+    {
+        "name": "Artur Akavov",
+        "age": 36,
+        "gender": "m",
+        "height": "5' 9\" / 176 cm",
+        "nationality": "Russia",
+        "nickname": null,
+        "reach": "69.7\" / 177 cm",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 21,
+            "losses": 4,
+            "draws": 0,
+            "total_bouts": 25,
+            "ko_percentage": 48,
+            "ko_wins": 10,
+            "stopped": 2
+        },
+        "debut": "2011",
+        "id": "6715fc1eaf69bb50508b7968",
+        "division": {
+            "name": "Super Middleweight",
+            "slug": "super-middleweight",
+            "weight_lb": 168,
+            "weight_kg": 76.2,
+            "id": "671513530ad13034eb882657"
+        },
+        "titles": []
+    },
+    {
+        "name": "Ra'eese Aleem",
+        "age": 34,
+        "gender": "m",
+        "height": "5' 6\" / 168 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "68.5\" / 174 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 20,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 21,
+            "ko_percentage": 60,
+            "ko_wins": 12,
+            "stopped": 0
+        },
+        "debut": "2011",
+        "id": "6715fc1eaf69bb50508b796e",
+        "division": {
+            "name": "Super Bantamweight",
+            "slug": "super-bantamweight",
+            "weight_lb": 122,
+            "weight_kg": 55.34,
+            "id": "671513530ad13034eb88264f"
+        },
+        "titles": []
+    },
+    {
+        "name": "Felix Alvarado",
+        "age": 35,
+        "gender": "m",
+        "height": "5' 4\" / 163 cm",
+        "nationality": "Nicaragua",
+        "nickname": null,
+        "reach": "68.1\" / 173 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 42,
+            "losses": 4,
+            "draws": 0,
+            "total_bouts": 46,
+            "ko_percentage": 83,
+            "ko_wins": 35,
+            "stopped": 0
+        },
+        "debut": "2010",
+        "id": "6715fc1eaf69bb50508b7977",
+        "division": {
+            "name": "Flyweight",
+            "slug": "flyweight",
+            "weight_lb": 112,
+            "weight_kg": 50.8,
+            "id": "671513530ad13034eb88264c"
+        },
+        "titles": []
+    },
+    {
+        "name": "Jerwin Ancajas",
+        "age": 33,
+        "gender": "m",
+        "height": "5' 6\" / 168 cm",
+        "nationality": "Philippines",
+        "nickname": null,
+        "reach": "66.5\" / 169 cm",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 36,
+            "losses": 4,
+            "draws": 2,
+            "total_bouts": 42,
+            "total_rounds": 264,
+            "ko_percentage": 69,
+            "ko_wins": 24,
+            "stopped": 1
+        },
+        "debut": "2009",
+        "id": "6715fc1eaf69bb50508b797a",
+        "division": {
+            "name": "Bantamweight",
+            "slug": "bantamweight",
+            "weight_lb": 118,
+            "weight_kg": 53.52,
+            "id": "671513530ad13034eb88264e"
+        },
+        "titles": []
+    },
+    {
+        "name": "Demetrius Andrade",
+        "age": 36,
+        "gender": "m",
+        "height": "6' 1\" / 185 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "73.6\" / 187 cm",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 32,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 33,
+            "ko_percentage": 59,
+            "ko_wins": 19,
+            "stopped": 1
+        },
+        "debut": "2008",
+        "id": "6715fc1eaf69bb50508b797c",
+        "division": {
+            "name": "Super Middleweight",
+            "slug": "super-middleweight",
+            "weight_lb": 168,
+            "weight_kg": 76.2,
+            "id": "671513530ad13034eb882657"
+        },
+        "titles": []
+    },
+    {
+        "name": "Roman Andreev",
+        "age": 38,
+        "gender": "m",
+        "height": "5' 8\" / 172 cm",
+        "nationality": "Russia",
+        "nickname": null,
+        "reach": "-",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 25,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 26,
+            "ko_percentage": 68,
+            "ko_wins": 17,
+            "stopped": 1
+        },
+        "debut": "2008",
+        "id": "6715fc1eaf69bb50508b797d",
+        "division": {
+            "name": "Lightweight",
+            "slug": "lightweight",
+            "weight_lb": 135,
+            "weight_kg": 61.23,
+            "id": "671513530ad13034eb882652"
+        },
+        "titles": []
+    },
+    {
+        "name": "Matty Askin",
+        "age": 35,
+        "gender": "m",
+        "height": "6' 4\" / 193 cm",
+        "nationality": "United Kingdom",
+        "nickname": null,
+        "reach": "77.2\" / 196 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 23,
+            "losses": 4,
+            "draws": 1,
+            "total_bouts": 28,
+            "ko_percentage": 65,
+            "ko_wins": 15,
+            "stopped": 1
+        },
+        "debut": "2008",
+        "id": "6715fc1eaf69bb50508b7988",
+        "division": {
+            "name": "Cruiserweight",
+            "slug": "cruiserweight",
+            "weight_lb": 200,
+            "weight_kg": 90.72,
+            "id": "671513530ad13034eb882659"
+        },
+        "titles": []
+    },
+    {
+        "name": "Adam Azim",
+        "age": 23,
+        "gender": "m",
+        "height": "5' 10\" / 178 cm",
+        "nationality": "England",
+        "nickname": null,
+        "reach": "70.9\" / 180 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 13,
+            "losses": 0,
+            "draws": 0,
+            "total_bouts": 13,
+            "ko_percentage": 77,
+            "ko_wins": 10,
+            "stopped": 0
+        },
+        "debut": "2020",
+        "id": "6715fc1eaf69bb50508b798d",
+        "division": {
+            "name": "Light Heavyweight",
+            "slug": "light-heavyweight",
+            "weight_lb": 175,
+            "weight_kg": 79.38,
+            "id": "671513530ad13034eb882658"
+        },
+        "titles": []
+    },
+    {
+        "name": "Alen Babic",
+        "age": 33,
+        "gender": "m",
+        "height": "6' 1\" / 185 cm",
+        "nationality": "Croatia",
+        "nickname": null,
+        "reach": "74\" / 188 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 12,
+            "losses": 2,
+            "draws": 0,
+            "total_bouts": 14,
+            "ko_percentage": 92,
+            "ko_wins": 11,
+            "stopped": 2
+        },
+        "debut": "2019",
+        "id": "6715fc1eaf69bb50508b798e",
+        "division": {
+            "name": "Unclassified",
+            "slug": "unclassified",
+            "weight_lb": null,
+            "weight_kg": null,
+            "id": "67f56f87598b49f5459c6ebf"
+        },
+        "titles": []
+    },
+    {
+        "name": "Nick Ball",
+        "age": 28,
+        "gender": "m",
+        "height": "5' 5\" / 165 cm",
+        "nationality": "England",
+        "nickname": null,
+        "reach": "65\" / 165 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 22,
+            "losses": 0,
+            "draws": 1,
+            "total_bouts": 23,
+            "total_rounds": 134,
+            "ko_percentage": 59,
+            "ko_wins": 13,
+            "stopped": 0
+        },
+        "debut": "2017",
+        "id": "6715fc1eaf69bb50508b7990",
+        "division": {
+            "name": "Featherweight",
+            "slug": "featherweight",
+            "weight_lb": 126,
+            "weight_kg": 57.15,
+            "id": "671513530ad13034eb882650"
+        },
+        "titles": [
+            {
+                "name": "WBA World Featherweight Champion",
+                "id": "67153e83af69bb50508b7955"
+            }
+        ]
+    },
+    {
+        "name": "Abass Baraou",
+        "age": 30,
+        "gender": "m",
+        "height": "5' 10\" / 177 cm",
+        "nationality": "Germany",
+        "nickname": null,
+        "reach": "-",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 16,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 17,
+            "total_rounds": 119,
+            "ko_percentage": 56,
+            "ko_wins": 9,
+            "stopped": 0
+        },
+        "debut": "2018",
+        "id": "6715fc1eaf69bb50508b7993",
+        "division": {
+            "name": "Super Welterweight",
+            "slug": "super-welterweight",
+            "weight_lb": 154,
+            "weight_kg": 69.85,
+            "id": "671513530ad13034eb882655"
+        },
+        "titles": [
+            {
+                "name": "WBA World Super Welterweight Champion",
+                "id": "67153e83af69bb50508b794e"
+            }
+        ]
+    },
+    {
+        "name": "Paddy Barnes",
+        "age": 37,
+        "gender": "m",
+        "height": "5' 4\" / 162 cm",
+        "nationality": "Ireland",
+        "nickname": null,
+        "reach": "64.6\" / 164 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 6,
+            "losses": 3,
+            "draws": 0,
+            "total_bouts": 9,
+            "ko_percentage": 33,
+            "ko_wins": 2,
+            "stopped": 2
+        },
+        "debut": "2016",
+        "id": "6715fc1eaf69bb50508b7995",
+        "division": {
+            "name": "Flyweight",
+            "slug": "flyweight",
+            "weight_lb": 112,
+            "weight_kg": 50.8,
+            "id": "671513530ad13034eb88264c"
+        },
+        "titles": []
+    },
+    {
+        "name": "Jonathan Victor Barros",
+        "age": 40,
+        "gender": "m",
+        "height": "5' 9\" / 175 cm",
+        "nationality": "Argentina",
+        "nickname": null,
+        "reach": "70.9\" / 180 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 43,
+            "losses": 8,
+            "draws": 1,
+            "total_bouts": 52,
+            "ko_percentage": 53,
+            "ko_wins": 23,
+            "stopped": 3
+        },
+        "debut": "2004",
+        "id": "6715fc1eaf69bb50508b799a",
+        "division": {
+            "name": "Super Featherweight",
+            "slug": "super-featherweight",
+            "weight_lb": 130,
+            "weight_kg": 58.97,
+            "id": "671513530ad13034eb882651"
+        },
+        "titles": []
+    },
+    {
+        "name": "Ismael Barroso",
+        "age": 41,
+        "gender": "m",
+        "height": "5' 9\" / 174 cm",
+        "nationality": "Venezuela",
+        "nickname": null,
+        "reach": "68.9\" / 175 cm",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 25,
+            "losses": 5,
+            "draws": 2,
+            "total_bouts": 32,
+            "ko_percentage": 92,
+            "ko_wins": 23,
+            "stopped": 4
+        },
+        "debut": "2005",
+        "id": "6715fc1eaf69bb50508b799b",
+        "division": {
+            "name": "Super Lightweight",
+            "slug": "super-lightweight",
+            "weight_lb": 140,
+            "weight_kg": 63.5,
+            "id": "671513530ad13034eb882653"
+        },
+        "titles": [
+            {
+                "name": "WBA Interim World Super Lightweight Champion",
+                "id": "67153e83af69bb50508b7951"
+            }
+        ]
+    },
+    {
+        "name": "Rances Barthelemy",
+        "age": 38,
+        "gender": "m",
+        "height": "5' 11\" / 180 cm",
+        "nationality": "Cuba",
+        "nickname": null,
+        "reach": "72.8\" / 185 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 30,
+            "losses": 3,
+            "draws": 1,
+            "total_bouts": 34,
+            "ko_percentage": 50,
+            "ko_wins": 15,
+            "stopped": 1
+        },
+        "debut": "2009",
+        "id": "6715fc1eaf69bb50508b799c",
+        "division": {
+            "name": "Super Lightweight",
+            "slug": "super-lightweight",
+            "weight_lb": 140,
+            "weight_kg": 63.5,
+            "id": "671513530ad13034eb882653"
+        },
+        "titles": []
+    },
+    {
+        "name": "Brandon Adams",
+        "age": 35,
+        "gender": "m",
+        "height": "5' 9\" / 175 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "70.1\" / 178 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 25,
+            "losses": 4,
+            "draws": 0,
+            "total_bouts": 29,
+            "ko_percentage": 64,
+            "ko_wins": 16,
+            "stopped": 1
+        },
+        "debut": "2011",
+        "id": "6715fc1eaf69bb50508b7963",
+        "division": {
+            "name": "Super Welterweight",
+            "slug": "super-welterweight",
+            "weight_lb": 154,
+            "weight_kg": 69.85,
+            "id": "671513530ad13034eb882655"
+        },
+        "titles": []
+    },
+    {
+        "name": "Joseph Adorno",
+        "age": 26,
+        "gender": "m",
+        "height": "5' 6\" / 168 cm",
+        "nationality": "United States",
+        "nickname": null,
+        "reach": "68.1\" / 173 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 21,
+            "losses": 4,
+            "draws": 2,
+            "total_bouts": 27,
+            "total_rounds": 106,
+            "ko_percentage": 81,
+            "ko_wins": 17,
+            "stopped": 0
+        },
+        "debut": "2016",
+        "id": "6715fc1eaf69bb50508b7965",
+        "division": {
+            "name": "Lightweight",
+            "slug": "lightweight",
+            "weight_lb": 135,
+            "weight_kg": 61.23,
+            "id": "671513530ad13034eb882652"
+        },
+        "titles": []
+    },
+    {
+        "name": "Botirzhon Akhmedov",
+        "age": 33,
+        "gender": "m",
+        "height": "5' 8\" / 172 cm",
+        "nationality": "Ukraine",
+        "nickname": null,
+        "reach": "68.5\" / 174 cm",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 10,
+            "losses": 4,
+            "draws": 0,
+            "total_bouts": 14,
+            "ko_percentage": 90,
+            "ko_wins": 9,
+            "stopped": 0
+        },
+        "debut": "2017",
+        "id": "6715fc1eaf69bb50508b796a",
+        "division": {
+            "name": "Welterweight",
+            "slug": "welterweight",
+            "weight_lb": 147,
+            "weight_kg": 66.68,
+            "id": "671513530ad13034eb882654"
+        },
+        "titles": []
+    },
+    {
+        "name": "Gabriela Celeste Alaniz",
+        "age": 28,
+        "gender": "f",
+        "height": "5' 0\" / 152 cm",
+        "nationality": "Argentina",
+        "nickname": null,
+        "reach": "61.8\" / 157 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 15,
+            "losses": 2,
+            "draws": 0,
+            "total_bouts": 17,
+            "ko_percentage": 40,
+            "ko_wins": 6,
+            "stopped": 1
+        },
+        "debut": "2018",
+        "id": "6715fc1eaf69bb50508b796d",
+        "division": {
+            "name": "Flyweight",
+            "slug": "flyweight",
+            "weight_lb": 112,
+            "weight_kg": 50.8,
+            "id": "671513530ad13034eb88264c"
+        },
+        "titles": []
+    },
+    {
+        "name": "Mehdi Amar",
+        "age": 42,
+        "gender": "m",
+        "height": "-",
+        "nationality": "France",
+        "nickname": null,
+        "reach": "-",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 35,
+            "losses": 6,
+            "draws": 2,
+            "total_bouts": 43,
+            "ko_percentage": 46,
+            "ko_wins": 16,
+            "stopped": 1
+        },
+        "debut": "2003",
+        "id": "6715fc1eaf69bb50508b7979",
+        "division": {
+            "name": "Light Heavyweight",
+            "slug": "light-heavyweight",
+            "weight_lb": 175,
+            "weight_kg": 79.38,
+            "id": "671513530ad13034eb882658"
+        },
+        "titles": []
+    },
+    {
+        "name": "Samuel Antwi",
+        "age": 32,
+        "gender": "m",
+        "height": "5' 8\" / 173 cm",
+        "nationality": "United Kingdom",
+        "nickname": null,
+        "reach": "-",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 17,
+            "losses": 2,
+            "draws": 0,
+            "total_bouts": 19,
+            "ko_percentage": 47,
+            "ko_wins": 8,
+            "stopped": 1
+        },
+        "debut": "2015",
+        "id": "6715fc1eaf69bb50508b797f",
+        "division": {
+            "name": "Super Welterweight",
+            "slug": "super-welterweight",
+            "weight_lb": 154,
+            "weight_kg": 69.85,
+            "id": "671513530ad13034eb882655"
+        },
+        "titles": []
+    },
+    {
+        "name": "Jaime Arboleda",
+        "age": 30,
+        "gender": "m",
+        "height": "5' 10\" / 177 cm",
+        "nationality": "Panama",
+        "nickname": null,
+        "reach": "72\" / 183 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 20,
+            "losses": 3,
+            "draws": 0,
+            "total_bouts": 23,
+            "ko_percentage": 75,
+            "ko_wins": 15,
+            "stopped": 3
+        },
+        "debut": "2014",
+        "id": "6715fc1eaf69bb50508b7980",
+        "division": {
+            "name": "Lightweight",
+            "slug": "lightweight",
+            "weight_lb": 135,
+            "weight_kg": 61.23,
+            "id": "671513530ad13034eb882652"
+        },
+        "titles": []
+    },
+    {
+        "name": "McWilliams Arroyo",
+        "age": 38,
+        "gender": "m",
+        "height": "5' 4\" / 163 cm",
+        "nationality": "Puerto Rico",
+        "nickname": null,
+        "reach": "64.2\" / 163 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 21,
+            "losses": 4,
+            "draws": 0,
+            "total_bouts": 25,
+            "ko_percentage": 76,
+            "ko_wins": 16,
+            "stopped": 0
+        },
+        "debut": "2010",
+        "id": "6715fc1eaf69bb50508b7985",
+        "division": {
+            "name": "Flyweight",
+            "slug": "flyweight",
+            "weight_lb": 112,
+            "weight_kg": 50.8,
+            "id": "671513530ad13034eb88264c"
+        },
+        "titles": []
+    },
+    {
+        "name": "Chris Avalos",
+        "age": 34,
+        "gender": "m",
+        "height": "5' 7\" / 170 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "68.1\" / 173 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 27,
+            "losses": 8,
+            "draws": 0,
+            "total_bouts": 35,
+            "ko_percentage": 74,
+            "ko_wins": 20,
+            "stopped": 5
+        },
+        "debut": "2008",
+        "id": "6715fc1eaf69bb50508b798a",
+        "division": {
+            "name": "Featherweight",
+            "slug": "featherweight",
+            "weight_lb": 126,
+            "weight_kg": 57.15,
+            "id": "671513530ad13034eb882650"
+        },
+        "titles": []
+    },
+    {
+        "name": "Martin Bakole",
+        "age": 31,
+        "gender": "m",
+        "height": "6' 3\" / 191 cm",
+        "nationality": "Democratic Republic Of The Congo",
+        "nickname": null,
+        "reach": "77.2\" / 196 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 21,
+            "losses": 2,
+            "draws": 0,
+            "total_bouts": 23,
+            "ko_percentage": 76,
+            "ko_wins": 16,
+            "stopped": 2
+        },
+        "debut": "2014",
+        "id": "6715fc1eaf69bb50508b798f",
+        "division": {
+            "name": "Heavyweight",
+            "slug": "heavyweight",
+            "weight_lb": null,
+            "weight_kg": null,
+            "id": "671513530ad13034eb88265a"
+        },
+        "titles": []
+    },
+    {
+        "name": "Ionut Baluta",
+        "age": 31,
+        "gender": "m",
+        "height": "5' 10\" / 179 cm",
+        "nationality": "Romania",
+        "nickname": null,
+        "reach": "72.8\" / 185 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 17,
+            "losses": 5,
+            "draws": 1,
+            "total_bouts": 23,
+            "total_rounds": 169,
+            "ko_percentage": 18,
+            "ko_wins": 3,
+            "stopped": 0
+        },
+        "debut": "2016",
+        "id": "6715fc1eaf69bb50508b7991",
+        "division": {
+            "name": "Super Bantamweight",
+            "slug": "super-bantamweight",
+            "weight_lb": 122,
+            "weight_kg": 55.34,
+            "id": "671513530ad13034eb88264f"
+        },
+        "titles": []
+    },
+    {
+        "name": "Zelfa Barrett",
+        "age": 31,
+        "gender": "m",
+        "height": "5' 7\" / 170 cm",
+        "nationality": "England",
+        "nickname": null,
+        "reach": "68.1\" / 173 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 32,
+            "losses": 3,
+            "draws": 0,
+            "total_bouts": 34,
+            "total_rounds": 212,
+            "ko_percentage": 55,
+            "ko_wins": 17,
+            "stopped": 1
+        },
+        "debut": "2014",
+        "id": "6715fc1eaf69bb50508b7998",
+        "division": {
+            "name": "Super Featherweight",
+            "slug": "super-featherweight",
+            "weight_lb": 130,
+            "weight_kg": 58.97,
+            "id": "671513530ad13034eb882651"
+        },
+        "titles": []
+    },
+    {
+        "name": "Carlos Adames",
+        "age": 30,
+        "gender": "m",
+        "height": "5' 11\" / 180 cm",
+        "nationality": "Dominican Republic",
+        "nickname": null,
+        "reach": "72.8\" / 185 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 24,
+            "losses": 1,
+            "draws": 1,
+            "total_bouts": 26,
+            "ko_percentage": 75,
+            "ko_wins": 18,
+            "stopped": 0
+        },
+        "debut": "2015",
+        "id": "6715fc1eaf69bb50508b7962",
+        "division": {
+            "name": "Middleweight",
+            "slug": "middleweight",
+            "weight_lb": 160,
+            "weight_kg": 72.57,
+            "id": "671513530ad13034eb882656"
+        },
+        "titles": [
+            {
+                "name": "WBC World Middleweight Champion",
+                "id": "67153e83af69bb50508b7935"
+            }
+        ]
+    },
+    {
+        "name": "Kudratillo Abdukakhorov",
+        "age": 31,
+        "gender": "m",
+        "height": "5' 10\" / 177 cm",
+        "nationality": "Uzbekistan",
+        "nickname": null,
+        "reach": "67.3\" / 171 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 20,
+            "losses": 4,
+            "draws": 0,
+            "total_bouts": 24,
+            "total_rounds": 168,
+            "ko_percentage": 60,
+            "ko_wins": 12,
+            "stopped": 0
+        },
+        "debut": "2015",
+        "id": "6715fc1eaf69bb50508b795d",
+        "division": {
+            "name": "Super Welterweight",
+            "slug": "super-welterweight",
+            "weight_lb": 154,
+            "weight_kg": 69.85,
+            "id": "671513530ad13034eb882655"
+        },
+        "titles": []
+    },
+    {
+        "name": "David Adeleye",
+        "age": 28,
+        "gender": "m",
+        "height": "6' 4\" / 194 cm",
+        "nationality": "England",
+        "nickname": null,
+        "reach": "76.4\" / 194 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 14,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 15,
+            "total_rounds": 50,
+            "ko_percentage": 93,
+            "ko_wins": 13,
+            "stopped": 1
+        },
+        "debut": "2019",
+        "id": "6715fc1eaf69bb50508b7964",
+        "division": {
+            "name": "Heavyweight",
+            "slug": "heavyweight",
+            "weight_lb": null,
+            "weight_kg": null,
+            "id": "671513530ad13034eb88265a"
+        },
+        "titles": []
+    },
+    {
+        "name": "Ali Akhmedov",
+        "age": 30,
+        "gender": "m",
+        "height": "6' 1\" / 185 cm",
+        "nationality": "Kazakhstan",
+        "nickname": null,
+        "reach": "68.1\" / 173 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 23,
+            "losses": 2,
+            "draws": 0,
+            "total_bouts": 25,
+            "total_rounds": 112,
+            "ko_percentage": 70,
+            "ko_wins": 16,
+            "stopped": 1
+        },
+        "debut": "2016",
+        "id": "6715fc1eaf69bb50508b796b",
+        "division": {
+            "name": "Super Middleweight",
+            "slug": "super-middleweight",
+            "weight_lb": 168,
+            "weight_kg": 76.2,
+            "id": "671513530ad13034eb882657"
+        },
+        "titles": []
+    },
+    {
+        "name": "Jevgenijs Aleksejevs",
+        "age": 31,
+        "gender": "m",
+        "height": "6' 0\" / 183 cm",
+        "nationality": "Latvia",
+        "nickname": null,
+        "reach": "72\" / 183 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 17,
+            "losses": 0,
+            "draws": 0,
+            "total_bouts": 17,
+            "ko_percentage": 59,
+            "ko_wins": 10,
+            "stopped": 0
+        },
+        "debut": "2013",
+        "id": "6715fc1eaf69bb50508b796f",
+        "division": {
+            "name": "Middleweight",
+            "slug": "middleweight",
+            "weight_lb": 160,
+            "weight_kg": 72.57,
+            "id": "671513530ad13034eb882656"
+        },
+        "titles": []
+    },
+    {
+        "name": "Sadam Ali",
+        "age": 36,
+        "gender": "m",
+        "height": "5' 9\" / 175 cm",
+        "nationality": "United States",
+        "nickname": null,
+        "reach": "72.8\" / 185 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 27,
+            "losses": 3,
+            "draws": 0,
+            "total_bouts": 30,
+            "total_rounds": 169,
+            "ko_percentage": 52,
+            "ko_wins": 14,
+            "stopped": 3
+        },
+        "debut": "2009",
+        "id": "6715fc1eaf69bb50508b7972",
+        "division": {
+            "name": "Welterweight",
+            "slug": "welterweight",
+            "weight_lb": 147,
+            "weight_kg": 66.68,
+            "id": "671513530ad13034eb882654"
+        },
+        "titles": []
+    },
+    {
+        "name": "David Allen",
+        "age": 32,
+        "gender": "m",
+        "height": "6' 3\" / 191 cm",
+        "nationality": "United Kingdom",
+        "nickname": null,
+        "reach": "75.2\" / 191 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 23,
+            "losses": 7,
+            "draws": 2,
+            "total_bouts": 32,
+            "ko_percentage": 78,
+            "ko_wins": 18,
+            "stopped": 4
+        },
+        "debut": "2012",
+        "id": "6715fc1eaf69bb50508b7974",
+        "division": {
+            "name": "Heavyweight",
+            "slug": "heavyweight",
+            "weight_lb": null,
+            "weight_kg": null,
+            "id": "671513530ad13034eb88265a"
+        },
+        "titles": []
+    },
+    {
+        "name": "Mikhail Aloyan",
+        "age": 36,
+        "gender": "m",
+        "height": "5' 5\" / 164 cm",
+        "nationality": "Russia",
+        "nickname": null,
+        "reach": "-",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 8,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 9,
+            "ko_percentage": 12,
+            "ko_wins": 1,
+            "stopped": 0
+        },
+        "debut": "2017",
+        "id": "6715fc1eaf69bb50508b7975",
+        "division": {
+            "name": "Super Flyweight",
+            "slug": "super-flyweight",
+            "weight_lb": 115,
+            "weight_kg": 52.16,
+            "id": "671513530ad13034eb88264d"
+        },
+        "titles": []
+    },
+    {
+        "name": "Rene Alvarado",
+        "age": 36,
+        "gender": "m",
+        "height": "5' 7\" / 170 cm",
+        "nationality": "Nicaragua",
+        "nickname": null,
+        "reach": "72\" / 183 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 35,
+            "losses": 16,
+            "draws": 0,
+            "total_bouts": 51,
+            "total_rounds": 319,
+            "ko_percentage": 63,
+            "ko_wins": 22,
+            "stopped": 1
+        },
+        "debut": "2008",
+        "id": "6715fc1eaf69bb50508b7976",
+        "division": {
+            "name": "Lightweight",
+            "slug": "lightweight",
+            "weight_lb": 135,
+            "weight_kg": 61.23,
+            "id": "671513530ad13034eb882652"
+        },
+        "titles": []
+    },
+    {
+        "name": "Eleider Alvarez",
+        "age": 40,
+        "gender": "m",
+        "height": "6' 0\" / 183 cm",
+        "nationality": "Colombia",
+        "nickname": null,
+        "reach": "75.6\" / 192 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 25,
+            "losses": 2,
+            "draws": 0,
+            "total_bouts": 27,
+            "ko_percentage": 52,
+            "ko_wins": 13,
+            "stopped": 1
+        },
+        "debut": "2009",
+        "id": "6715fc1eaf69bb50508b7978",
+        "division": {
+            "name": "Light Heavyweight",
+            "slug": "light-heavyweight",
+            "weight_lb": 175,
+            "weight_kg": 79.38,
+            "id": "671513530ad13034eb882658"
+        },
+        "titles": []
+    },
+    {
+        "name": "Jared Anderson",
+        "age": 25,
+        "gender": "m",
+        "height": "6' 4\" / 193 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "78.3\" / 199 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 18,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 19,
+            "ko_percentage": 83,
+            "ko_wins": 15,
+            "stopped": 1
+        },
+        "debut": "2019",
+        "id": "6715fc1eaf69bb50508b797b",
+        "division": {
+            "name": "Heavyweight",
+            "slug": "heavyweight",
+            "weight_lb": null,
+            "weight_kg": null,
+            "id": "671513530ad13034eb88265a"
+        },
+        "titles": []
+    },
+    {
+        "name": "Alfredo Angulo",
+        "age": 42,
+        "gender": "m",
+        "height": "5' 9\" / 175 cm",
+        "nationality": "Mexico",
+        "nickname": null,
+        "reach": "69.7\" / 177 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 26,
+            "losses": 8,
+            "draws": 0,
+            "total_bouts": 34,
+            "ko_percentage": 81,
+            "ko_wins": 21,
+            "stopped": 3
+        },
+        "debut": "2005",
+        "id": "6715fc1eaf69bb50508b797e",
+        "division": {
+            "name": "Super Middleweight",
+            "slug": "super-middleweight",
+            "weight_lb": 168,
+            "weight_kg": 76.2,
+            "id": "671513530ad13034eb882657"
+        },
+        "titles": []
+    },
+    {
+        "name": "Luis Arias",
+        "age": 34,
+        "gender": "m",
+        "height": "5' 11\" / 180 cm",
+        "nationality": "United States",
+        "nickname": null,
+        "reach": "-",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 22,
+            "losses": 4,
+            "draws": 1,
+            "total_bouts": 27,
+            "total_rounds": 159,
+            "ko_percentage": 55,
+            "ko_wins": 12,
+            "stopped": 1
+        },
+        "debut": "2012",
+        "id": "6715fc1eaf69bb50508b7981",
+        "division": {
+            "name": "Middleweight",
+            "slug": "middleweight",
+            "weight_lb": 160,
+            "weight_kg": 72.57,
+            "id": "671513530ad13034eb882656"
+        },
+        "titles": []
+    },
+    {
+        "name": "Jack Arnfield",
+        "age": 35,
+        "gender": "m",
+        "height": "6' 2\" / 188 cm",
+        "nationality": "United Kingdom",
+        "nickname": null,
+        "reach": "-",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 26,
+            "losses": 4,
+            "draws": 0,
+            "total_bouts": 30,
+            "ko_percentage": 23,
+            "ko_wins": 6,
+            "stopped": 1
+        },
+        "debut": "2007",
+        "id": "6715fc1eaf69bb50508b7982",
+        "division": {
+            "name": "Middleweight",
+            "slug": "middleweight",
+            "weight_lb": 160,
+            "weight_kg": 72.57,
+            "id": "671513530ad13034eb882656"
+        },
+        "titles": []
+    },
+    {
+        "name": "Chris Arreola",
+        "age": 43,
+        "gender": "m",
+        "height": "6' 3\" / 191 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "76\" / 193 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 39,
+            "losses": 7,
+            "draws": 1,
+            "total_bouts": 47,
+            "ko_percentage": 92,
+            "ko_wins": 36,
+            "stopped": 3
+        },
+        "debut": "2003",
+        "id": "6715fc1eaf69bb50508b7983",
+        "division": {
+            "name": "Heavyweight",
+            "slug": "heavyweight",
+            "weight_lb": null,
+            "weight_kg": null,
+            "id": "671513530ad13034eb88265a"
+        },
+        "titles": []
+    },
+    {
+        "name": "Lyndon Arthur",
+        "age": 34,
+        "gender": "m",
+        "height": "6' 2\" / 188 cm",
+        "nationality": "England",
+        "nickname": null,
+        "reach": "74\" / 188 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 24,
+            "losses": 3,
+            "draws": 0,
+            "total_bouts": 27,
+            "total_rounds": 149,
+            "ko_percentage": 71,
+            "ko_wins": 17,
+            "stopped": 1
+        },
+        "debut": "2016",
+        "id": "6715fc1eaf69bb50508b7986",
+        "division": {
+            "name": "Light Heavyweight",
+            "slug": "light-heavyweight",
+            "weight_lb": 175,
+            "weight_kg": 79.38,
+            "id": "671513530ad13034eb882658"
+        },
+        "titles": []
+    },
+    {
+        "name": "Mikuru Asakura",
+        "age": 31,
+        "gender": null,
+        "height": "5' 10\" / 177 cm",
+        "nationality": "Japan",
+        "nickname": null,
+        "reach": "-",
+        "stance": "Southpaw (L)",
+        "stats": {
+            "wins": 0,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 1,
+            "total_rounds": 2,
+            "ko_percentage": 0,
+            "ko_wins": 0,
+            "stopped": 1
+        },
+        "debut": "",
+        "id": "6715fc1eaf69bb50508b7987",
+        "division": null,
+        "titles": []
+    },
+    {
+        "name": "Ivan Baranchyk",
+        "age": 31,
+        "gender": "m",
+        "height": "5' 8\" / 173 cm",
+        "nationality": "Belarus",
+        "nickname": null,
+        "reach": "66.9\" / 170 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 20,
+            "losses": 3,
+            "draws": 0,
+            "total_bouts": 23,
+            "ko_percentage": 65,
+            "ko_wins": 13,
+            "stopped": 2
+        },
+        "debut": "2014",
+        "id": "6715fc1eaf69bb50508b7992",
+        "division": {
+            "name": "Super Lightweight",
+            "slug": "super-lightweight",
+            "weight_lb": 140,
+            "weight_kg": 63.5,
+            "id": "671513530ad13034eb882653"
+        },
+        "titles": []
+    },
+    {
+        "name": "Arnold Barboza Jr",
+        "age": 33,
+        "gender": "m",
+        "height": "5' 9\" / 175 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "72\" / 183 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 32,
+            "losses": 0,
+            "draws": 0,
+            "total_bouts": 32,
+            "ko_percentage": 34,
+            "ko_wins": 11,
+            "stopped": 0
+        },
+        "debut": "2013",
+        "id": "6715fc1eaf69bb50508b7994",
+        "division": {
+            "name": "Super Lightweight",
+            "slug": "super-lightweight",
+            "weight_lb": 140,
+            "weight_kg": 63.5,
+            "id": "671513530ad13034eb882653"
+        },
+        "titles": []
+    },
+    {
+        "name": "Sullivan Barrera",
+        "age": 42,
+        "gender": "m",
+        "height": "6' 2\" / 188 cm",
+        "nationality": "Cuba",
+        "nickname": null,
+        "reach": "72.8\" / 185 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 22,
+            "losses": 5,
+            "draws": 0,
+            "total_bouts": 27,
+            "ko_percentage": 64,
+            "ko_wins": 14,
+            "stopped": 3
+        },
+        "debut": "2009",
+        "id": "6715fc1eaf69bb50508b7996",
+        "division": {
+            "name": "Light Heavyweight",
+            "slug": "light-heavyweight",
+            "weight_lb": 175,
+            "weight_kg": 79.38,
+            "id": "671513530ad13034eb882658"
+        },
+        "titles": []
+    },
+    {
+        "name": "Tomasz Adamek",
+        "age": 48,
+        "gender": "m",
+        "height": "6' 2\" / 187 cm",
+        "nationality": "Poland",
+        "nickname": null,
+        "reach": "75.2\" / 191 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 54,
+            "losses": 6,
+            "draws": 0,
+            "total_bouts": 59,
+            "total_rounds": 0,
+            "ko_percentage": 58,
+            "ko_wins": 31,
+            "stopped": 3
+        },
+        "debut": "1999",
+        "id": "6715fc1eaf69bb50508b7961",
+        "division": {
+            "name": "Heavyweight",
+            "slug": "heavyweight",
+            "weight_lb": null,
+            "weight_kg": null,
+            "id": "671513530ad13034eb88265a"
+        },
+        "titles": []
+    },
+    {
+        "name": "Caoimhin Agyarko",
+        "age": 28,
+        "gender": "m",
+        "height": "5' 11\" / 181 cm",
+        "nationality": "Northern Ireland",
+        "nickname": null,
+        "reach": "71.3\" / 181 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 17,
+            "losses": 0,
+            "draws": 0,
+            "total_bouts": 17,
+            "total_rounds": 121,
+            "ko_percentage": 41,
+            "ko_wins": 7,
+            "stopped": 0
+        },
+        "debut": "2018",
+        "id": "6715fc1eaf69bb50508b7966",
+        "division": {
+            "name": "Super Welterweight",
+            "slug": "super-welterweight",
+            "weight_lb": 154,
+            "weight_kg": 69.85,
+            "id": "671513530ad13034eb882655"
+        },
+        "titles": []
+    },
+    {
+        "name": "Murodjon Akhmadaliev",
+        "age": 30,
+        "gender": "m",
+        "height": "5' 5\" / 166 cm",
+        "nationality": "Uzbekistan",
+        "nickname": null,
+        "reach": "68.1\" / 173 cm",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 13,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 14,
+            "total_rounds": 92,
+            "ko_percentage": 77,
+            "ko_wins": 10,
+            "stopped": 0
+        },
+        "debut": "2018",
+        "id": "6715fc1eaf69bb50508b7969",
+        "division": {
+            "name": "Super Bantamweight",
+            "slug": "super-bantamweight",
+            "weight_lb": 122,
+            "weight_kg": 55.34,
+            "id": "671513530ad13034eb88264f"
+        },
+        "titles": []
+    },
+    {
+        "name": "Seigo Yuri Akui",
+        "age": 29,
+        "gender": "m",
+        "height": "5' 4\" / 163 cm",
+        "nationality": "Japan",
+        "nickname": null,
+        "reach": "64.2\" / 163 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 21,
+            "losses": 3,
+            "draws": 1,
+            "total_bouts": 25,
+            "ko_percentage": 52,
+            "ko_wins": 11,
+            "stopped": 3
+        },
+        "debut": "2014",
+        "id": "6715fc1eaf69bb50508b796c",
+        "division": {
+            "name": "Flyweight",
+            "slug": "flyweight",
+            "weight_lb": 112,
+            "weight_kg": 50.8,
+            "id": "671513530ad13034eb88264c"
+        },
+        "titles": []
+    },
+    {
+        "name": "Devon Alexander",
+        "age": 37,
+        "gender": "m",
+        "height": "5' 9\" / 174 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "68.9\" / 175 cm",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 27,
+            "losses": 9,
+            "draws": 1,
+            "total_bouts": 37,
+            "ko_percentage": 52,
+            "ko_wins": 14,
+            "stopped": 3
+        },
+        "debut": "2004",
+        "id": "6715fc1eaf69bb50508b7970",
+        "division": {
+            "name": "Super Welterweight",
+            "slug": "super-welterweight",
+            "weight_lb": 154,
+            "weight_kg": 69.85,
+            "id": "671513530ad13034eb882655"
+        },
+        "titles": []
+    },
+    {
+        "name": "Chris Algieri",
+        "age": 40,
+        "gender": "m",
+        "height": "5' 10\" / 178 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "72\" / 183 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 25,
+            "losses": 4,
+            "draws": 0,
+            "total_bouts": 29,
+            "ko_percentage": 36,
+            "ko_wins": 9,
+            "stopped": 2
+        },
+        "debut": "2008",
+        "id": "6715fc1eaf69bb50508b7971",
+        "division": {
+            "name": "Welterweight",
+            "slug": "welterweight",
+            "weight_lb": 147,
+            "weight_kg": 66.68,
+            "id": "671513530ad13034eb882654"
+        },
+        "titles": []
+    },
+    {
+        "name": "Janibek Alimkhanuly",
+        "age": 31,
+        "gender": "m",
+        "height": "6' 0\" / 182 cm",
+        "nationality": "Kazakhstan",
+        "nickname": null,
+        "reach": "71.7\" / 182 cm",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 17,
+            "losses": 0,
+            "draws": 0,
+            "total_bouts": 17,
+            "ko_percentage": 65,
+            "ko_wins": 11,
+            "stopped": 0
+        },
+        "debut": "2016",
+        "id": "6715fc1eaf69bb50508b7973",
+        "division": {
+            "name": "Middleweight",
+            "slug": "middleweight",
+            "weight_lb": 160,
+            "weight_kg": 72.57,
+            "id": "671513530ad13034eb882656"
+        },
+        "titles": [
+            {
+                "name": "WBO World Middleweight Champion",
+                "id": "67153e83af69bb50508b790f"
+            },
+            {
+                "name": "IBF World Middleweight Champion",
+                "id": "67153e83af69bb50508b7922"
+            }
+        ]
+    },
+    {
+        "name": "McJoe Arroyo",
+        "age": 38,
+        "gender": "m",
+        "height": "5' 4\" / 163 cm",
+        "nationality": "Puerto Rico",
+        "nickname": null,
+        "reach": "65\" / 165 cm",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 18,
+            "losses": 4,
+            "draws": 0,
+            "total_bouts": 22,
+            "ko_percentage": 44,
+            "ko_wins": 8,
+            "stopped": 1
+        },
+        "debut": "2010",
+        "id": "6715fc1eaf69bb50508b7984",
+        "division": {
+            "name": "Bantamweight",
+            "slug": "bantamweight",
+            "weight_lb": 118,
+            "weight_kg": 53.52,
+            "id": "671513530ad13034eb88264e"
+        },
+        "titles": []
+    },
+    {
+        "name": "Vincent Astrolabio",
+        "age": 27,
+        "gender": "m",
+        "height": "5' 5\" / 165 cm",
+        "nationality": "Philippines",
+        "nickname": null,
+        "reach": "65.4\" / 166 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 19,
+            "losses": 5,
+            "draws": 0,
+            "total_bouts": 24,
+            "ko_percentage": 74,
+            "ko_wins": 14,
+            "stopped": 2
+        },
+        "debut": "2015",
+        "id": "6715fc1eaf69bb50508b7989",
+        "division": {
+            "name": "Bantamweight",
+            "slug": "bantamweight",
+            "weight_lb": 118,
+            "weight_kg": 53.52,
+            "id": "671513530ad13034eb88264e"
+        },
+        "titles": []
+    },
+    {
+        "name": "David Avanesyan",
+        "age": 36,
+        "gender": "m",
+        "height": "5' 8\" / 173 cm",
+        "nationality": "Armenia",
+        "nickname": null,
+        "reach": "68.5\" / 174 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 31,
+            "losses": 5,
+            "draws": 1,
+            "total_bouts": 37,
+            "ko_percentage": 61,
+            "ko_wins": 19,
+            "stopped": 3
+        },
+        "debut": "2009",
+        "id": "6715fc1eaf69bb50508b798b",
+        "division": {
+            "name": "Welterweight",
+            "slug": "welterweight",
+            "weight_lb": 147,
+            "weight_kg": 66.68,
+            "id": "671513530ad13034eb882654"
+        },
+        "titles": []
+    },
+    {
+        "name": "Dan Azeez",
+        "age": 36,
+        "gender": "m",
+        "height": "5' 10\" / 178 cm",
+        "nationality": "England",
+        "nickname": null,
+        "reach": "70.1\" / 178 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 21,
+            "losses": 2,
+            "draws": 1,
+            "total_bouts": 24,
+            "total_rounds": 161,
+            "ko_percentage": 62,
+            "ko_wins": 13,
+            "stopped": 0
+        },
+        "debut": "2017",
+        "id": "6715fc1eaf69bb50508b798c",
+        "division": {
+            "name": "Light Heavyweight",
+            "slug": "light-heavyweight",
+            "weight_lb": 175,
+            "weight_kg": 79.38,
+            "id": "671513530ad13034eb882658"
+        },
+        "titles": []
+    },
+    {
+        "name": "Marco Antonio Barrera",
+        "age": 50,
+        "gender": "m",
+        "height": "5' 6\" / 168 cm",
+        "nationality": "Mexico",
+        "nickname": null,
+        "reach": "70.1\" / 178 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 67,
+            "losses": 7,
+            "draws": 0,
+            "total_bouts": 74,
+            "ko_percentage": 69,
+            "ko_wins": 46,
+            "stopped": 2
+        },
+        "debut": "1989",
+        "id": "6715fc1eaf69bb50508b7997",
+        "division": {
+            "name": "Super Bantamweight",
+            "slug": "super-bantamweight",
+            "weight_lb": 122,
+            "weight_kg": 55.34,
+            "id": "671513530ad13034eb88264f"
+        },
+        "titles": []
+    },
+    {
+        "name": "Mario Barrios",
+        "age": 30,
+        "gender": "m",
+        "height": "5' 10\" / 178 cm",
+        "nationality": "United States",
+        "nickname": null,
+        "reach": "70.9\" / 180 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 29,
+            "losses": 2,
+            "draws": 1,
+            "total_bouts": 32,
+            "total_rounds": 198,
+            "ko_percentage": 62,
+            "ko_wins": 18,
+            "stopped": 1
+        },
+        "debut": "2013",
+        "id": "6715fc1eaf69bb50508b7999",
+        "division": {
+            "name": "Welterweight",
+            "slug": "welterweight",
+            "weight_lb": 147,
+            "weight_kg": 66.68,
+            "id": "671513530ad13034eb882654"
+        },
+        "titles": [
+            {
+                "name": "WBC World Welterweight Champion",
+                "id": "67153e83af69bb50508b7938"
+            }
+        ]
+    },
+    {
+        "name": "Albert Batyrgaziev",
+        "age": 26,
+        "gender": "m",
+        "height": "5' 6\" / 167 cm",
+        "nationality": "Russia",
+        "nickname": null,
+        "reach": "-",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 13,
+            "losses": 0,
+            "draws": 0,
+            "total_bouts": 12,
+            "total_rounds": 95,
+            "ko_percentage": 67,
+            "ko_wins": 8,
+            "stopped": 0
+        },
+        "debut": "2020",
+        "id": "6715fc1eaf69bb50508b799d",
+        "division": {
+            "name": "Super Featherweight",
+            "slug": "super-featherweight",
+            "weight_lb": 130,
+            "weight_kg": 58.97,
+            "id": "671513530ad13034eb882651"
+        },
+        "titles": []
+    },
+    {
+        "name": "Erik Bazinyan",
+        "age": 30,
+        "gender": "m",
+        "height": "6' 1\" / 185 cm",
+        "nationality": "Armenia",
+        "nickname": null,
+        "reach": "72.8\" / 185 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 32,
+            "losses": 1,
+            "draws": 1,
+            "total_bouts": 34,
+            "total_rounds": 179,
+            "ko_percentage": 72,
+            "ko_wins": 23,
+            "stopped": 1
+        },
+        "debut": "2013",
+        "id": "6715fc1eaf69bb50508b799f",
+        "division": {
+            "name": "Super Middleweight",
+            "slug": "super-middleweight",
+            "weight_lb": 168,
+            "weight_kg": 76.2,
+            "id": "671513530ad13034eb882657"
+        },
+        "titles": []
+    },
+    {
+        "name": "Reece Bellotti",
+        "age": 34,
+        "gender": "m",
+        "height": "5' 7\" / 170 cm",
+        "nationality": "England",
+        "nickname": null,
+        "reach": "-",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 20,
+            "losses": 6,
+            "draws": 0,
+            "total_bouts": 26,
+            "total_rounds": 167,
+            "ko_percentage": 75,
+            "ko_wins": 15,
+            "stopped": 2
+        },
+        "debut": "2015",
+        "id": "6715fc1eaf69bb50508b79a3",
+        "division": {
+            "name": "Super Featherweight",
+            "slug": "super-featherweight",
+            "weight_lb": 130,
+            "weight_kg": 58.97,
+            "id": "671513530ad13034eb882651"
+        },
+        "titles": []
+    },
+    {
+        "name": "Raymundo Beltran",
+        "age": 43,
+        "gender": "m",
+        "height": "5' 8\" / 173 cm",
+        "nationality": "Mexico",
+        "nickname": null,
+        "reach": "68.1\" / 173 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 37,
+            "losses": 10,
+            "draws": 1,
+            "total_bouts": 48,
+            "ko_percentage": 65,
+            "ko_wins": 24,
+            "stopped": 3
+        },
+        "debut": "1999",
+        "id": "6715fc1eaf69bb50508b79a4",
+        "division": {
+            "name": "Super Lightweight",
+            "slug": "super-lightweight",
+            "weight_lb": 140,
+            "weight_kg": 63.5,
+            "id": "671513530ad13034eb882653"
+        },
+        "titles": []
+    },
+    {
+        "name": "David Benavidez",
+        "age": 28,
+        "gender": "m",
+        "height": "6' 1\" / 185 cm",
+        "nationality": "United States",
+        "nickname": null,
+        "reach": "76\" / 193 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 30,
+            "losses": 0,
+            "draws": 0,
+            "total_bouts": 30,
+            "total_rounds": 160,
+            "ko_percentage": 80,
+            "ko_wins": 24,
+            "stopped": 0
+        },
+        "debut": "2013",
+        "id": "6715fc1eaf69bb50508b79a5",
+        "division": {
+            "name": "Super Middleweight",
+            "slug": "super-middleweight",
+            "weight_lb": 168,
+            "weight_kg": 76.2,
+            "id": "671513530ad13034eb882657"
+        },
+        "titles": [
+            {
+                "name": "WBC World Light heavyweight Champion",
+                "id": "67153e83af69bb50508b7931"
+            },
+            {
+                "name": "WBC Interim World Light heavyweight Champion",
+                "id": "67153e83af69bb50508b7932"
+            },
+            {
+                "name": "WBA World Light Heavyweight Champion",
+                "id": "67153e83af69bb50508b794a"
+            }
+        ]
+    },
+    {
+        "name": "Alexander Besputin",
+        "age": 33,
+        "gender": "m",
+        "height": "5' 7\" / 170 cm",
+        "nationality": "Russia",
+        "nickname": null,
+        "reach": "68.1\" / 173 cm",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 15,
+            "losses": 0,
+            "draws": 0,
+            "total_bouts": 15,
+            "ko_percentage": 73,
+            "ko_wins": 11,
+            "stopped": 0
+        },
+        "debut": "2015",
+        "id": "6715fc1eaf69bb50508b79ae",
+        "division": {
+            "name": "Welterweight",
+            "slug": "welterweight",
+            "weight_lb": 147,
+            "weight_kg": 66.68,
+            "id": "671513530ad13034eb882654"
+        },
+        "titles": []
+    },
+    {
+        "name": "Artur Beterbiev",
+        "age": 40,
+        "gender": "m",
+        "height": "6' 0\" / 182 cm",
+        "nationality": "Russia",
+        "nickname": null,
+        "reach": "72.8\" / 185 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 21,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 22,
+            "total_rounds": 122,
+            "ko_percentage": 95,
+            "ko_wins": 20,
+            "stopped": 0
+        },
+        "debut": "2013",
+        "id": "6715fc1eaf69bb50508b79af",
+        "division": {
+            "name": "Light Heavyweight",
+            "slug": "light-heavyweight",
+            "weight_lb": 175,
+            "weight_kg": 79.38,
+            "id": "671513530ad13034eb882658"
+        },
+        "titles": []
+    },
+    {
+        "name": "Dmitry Bivol",
+        "age": 34,
+        "gender": "m",
+        "height": "6' 0\" / 183 cm",
+        "nationality": "Russia",
+        "nickname": null,
+        "reach": "72\" / 183 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 24,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 25,
+            "ko_percentage": 50,
+            "ko_wins": 12,
+            "stopped": 0
+        },
+        "debut": "2014",
+        "id": "6715fc1eaf69bb50508b79b2",
+        "division": {
+            "name": "Light Heavyweight",
+            "slug": "light-heavyweight",
+            "weight_lb": 175,
+            "weight_kg": 79.38,
+            "id": "671513530ad13034eb882658"
+        },
+        "titles": [
+            {
+                "name": "The Ring Light Heavyweight Champion",
+                "id": "67153e83af69bb50508b78fb"
+            },
+            {
+                "name": "WBO World Light heavyweight Champion",
+                "id": "67153e83af69bb50508b790d"
+            },
+            {
+                "name": "IBF World Light Heavyweight Champion",
+                "id": "67153e83af69bb50508b7920"
+            },
+            {
+                "name": "WBA Super World Light Heavyweight Champion",
+                "id": "67153e83af69bb50508b7949"
+            }
+        ]
+    },
+    {
+        "name": "Timothy Bradley Jr",
+        "age": 41,
+        "gender": "m",
+        "height": "5' 6\" / 168 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "68.9\" / 175 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 33,
+            "losses": 2,
+            "draws": 1,
+            "total_bouts": 36,
+            "ko_percentage": 39,
+            "ko_wins": 13,
+            "stopped": 0
+        },
+        "debut": "2004",
+        "id": "6715fc1eaf69bb50508b79b8",
+        "division": {
+            "name": "Super Lightweight",
+            "slug": "super-lightweight",
+            "weight_lb": 140,
+            "weight_kg": 63.5,
+            "id": "671513530ad13034eb882653"
+        },
+        "titles": []
+    },
+    {
+        "name": "Cecilia Braekhus",
+        "age": 43,
+        "gender": "f",
+        "height": "5' 7\" / 171 cm",
+        "nationality": "Norway",
+        "nickname": null,
+        "reach": "66.9\" / 170 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 38,
+            "losses": 2,
+            "draws": 1,
+            "total_bouts": 41,
+            "ko_percentage": 24,
+            "ko_wins": 9,
+            "stopped": 0
+        },
+        "debut": "2007",
+        "id": "6715fc1eaf69bb50508b79ba",
+        "division": {
+            "name": "Super Welterweight",
+            "slug": "super-welterweight",
+            "weight_lb": 154,
+            "weight_kg": 69.85,
+            "id": "671513530ad13034eb882655"
+        },
+        "titles": []
+    },
+    {
+        "name": "Dominic Breazeale",
+        "age": 39,
+        "gender": "m",
+        "height": "6' 7\" / 201 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "81.5\" / 207 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 20,
+            "losses": 3,
+            "draws": 0,
+            "total_bouts": 23,
+            "ko_percentage": 90,
+            "ko_wins": 18,
+            "stopped": 2
+        },
+        "debut": "2012",
+        "id": "6715fc1faf69bb50508b79bc",
+        "division": {
+            "name": "Heavyweight",
+            "slug": "heavyweight",
+            "weight_lb": null,
+            "weight_kg": null,
+            "id": "671513530ad13034eb88265a"
+        },
+        "titles": []
+    },
+    {
+        "name": "Marcus Browne",
+        "age": 34,
+        "gender": "m",
+        "height": "6' 2\" / 187 cm",
+        "nationality": "United States",
+        "nickname": null,
+        "reach": "75.6\" / 192 cm",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 25,
+            "losses": 2,
+            "draws": 0,
+            "total_bouts": 27,
+            "total_rounds": 132,
+            "ko_percentage": 64,
+            "ko_wins": 16,
+            "stopped": 1
+        },
+        "debut": "2012",
+        "id": "6715fc1faf69bb50508b79c4",
+        "division": {
+            "name": "Cruiserweight",
+            "slug": "cruiserweight",
+            "weight_lb": 200,
+            "weight_kg": 90.72,
+            "id": "671513530ad13034eb882659"
+        },
+        "titles": []
+    },
+    {
+        "name": "Trevor Bryan",
+        "age": 35,
+        "gender": "m",
+        "height": "6' 4\" / 193 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "79.1\" / 201 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 22,
+            "losses": 2,
+            "draws": 0,
+            "total_bouts": 24,
+            "ko_percentage": 68,
+            "ko_wins": 15,
+            "stopped": 2
+        },
+        "debut": "2011",
+        "id": "6715fc1faf69bb50508b79c5",
+        "division": {
+            "name": "Heavyweight",
+            "slug": "heavyweight",
+            "weight_lb": null,
+            "weight_kg": null,
+            "id": "671513530ad13034eb88265a"
+        },
+        "titles": []
+    },
+    {
+        "name": "Frank Buglioni",
+        "age": 35,
+        "gender": "m",
+        "height": "6' 1\" / 185 cm",
+        "nationality": "United Kingdom",
+        "nickname": null,
+        "reach": "78\" / 198 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 22,
+            "losses": 4,
+            "draws": 1,
+            "total_bouts": 27,
+            "ko_percentage": 73,
+            "ko_wins": 16,
+            "stopped": 3
+        },
+        "debut": "2011",
+        "id": "6715fc1faf69bb50508b79c7",
+        "division": {
+            "name": "Light Heavyweight",
+            "slug": "light-heavyweight",
+            "weight_lb": 175,
+            "weight_kg": 79.38,
+            "id": "671513530ad13034eb882658"
+        },
+        "titles": []
+    },
+    {
+        "name": "Ricky Burns",
+        "age": 41,
+        "gender": "m",
+        "height": "5' 10\" / 178 cm",
+        "nationality": "United Kingdom",
+        "nickname": null,
+        "reach": "70.1\" / 178 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 45,
+            "losses": 8,
+            "draws": 1,
+            "total_bouts": 54,
+            "ko_percentage": 38,
+            "ko_wins": 17,
+            "stopped": 0
+        },
+        "debut": "2001",
+        "id": "6715fc1faf69bb50508b79ca",
+        "division": {
+            "name": "Welterweight",
+            "slug": "welterweight",
+            "weight_lb": 147,
+            "weight_kg": 66.68,
+            "id": "671513530ad13034eb882654"
+        },
+        "titles": []
+    },
+    {
+        "name": "Salt Papi",
+        "age": 30,
+        "gender": null,
+        "height": "5' 8\" / 173 cm",
+        "nationality": "United Kingdom",
+        "nickname": null,
+        "reach": "68.9\" / 175 cm",
+        "stance": "Orthodox (R)",
+        "stats": {
+            "wins": 0,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 1,
+            "total_rounds": 3,
+            "ko_percentage": 0,
+            "ko_wins": 0,
+            "stopped": 0
+        },
+        "debut": "2022",
+        "id": "6715fc1faf69bb50508b79cc",
+        "division": null,
+        "titles": []
+    },
+    {
+        "name": "Lucian Bute",
+        "age": 44,
+        "gender": "m",
+        "height": "6' 2\" / 187 cm",
+        "nationality": "Romania",
+        "nickname": null,
+        "reach": "72\" / 183 cm",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 32,
+            "losses": 5,
+            "draws": 0,
+            "total_bouts": 37,
+            "ko_percentage": 78,
+            "ko_wins": 25,
+            "stopped": 3
+        },
+        "debut": "2003",
+        "id": "6715fc1faf69bb50508b79ce",
+        "division": {
+            "name": "Super Middleweight",
+            "slug": "super-middleweight",
+            "weight_lb": 168,
+            "weight_kg": 76.2,
+            "id": "671513530ad13034eb882657"
+        },
+        "titles": []
+    },
+    {
+        "name": "Gideon Buthelezi",
+        "age": 38,
+        "gender": "m",
+        "height": "5' 5\" / 164 cm",
+        "nationality": "South Africa",
+        "nickname": null,
+        "reach": "63\" / 160 cm",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 23,
+            "losses": 6,
+            "draws": 0,
+            "total_bouts": 29,
+            "ko_percentage": 22,
+            "ko_wins": 5,
+            "stopped": 4
+        },
+        "debut": "2006",
+        "id": "6715fc1faf69bb50508b79cf",
+        "division": {
+            "name": "Super Flyweight",
+            "slug": "super-flyweight",
+            "weight_lb": 115,
+            "weight_kg": 52.16,
+            "id": "671513530ad13034eb88264d"
+        },
+        "titles": []
+    },
+    {
+        "name": "Paul Butler",
+        "age": 35,
+        "gender": "m",
+        "height": "5' 6\" / 168 cm",
+        "nationality": "United Kingdom",
+        "nickname": null,
+        "reach": "65\" / 165 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 36,
+            "losses": 3,
+            "draws": 0,
+            "total_bouts": 39,
+            "ko_percentage": 47,
+            "ko_wins": 17,
+            "stopped": 2
+        },
+        "debut": "2010",
+        "id": "6715fc1faf69bb50508b79d0",
+        "division": {
+            "name": "Bantamweight",
+            "slug": "bantamweight",
+            "weight_lb": 118,
+            "weight_kg": 53.52,
+            "id": "671513530ad13034eb88264e"
+        },
+        "titles": []
+    },
+    {
+        "name": "Randy Caballero",
+        "age": 34,
+        "gender": "m",
+        "height": "5' 6\" / 168 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "68.1\" / 173 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 24,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 25,
+            "ko_percentage": 58,
+            "ko_wins": 14,
+            "stopped": 0
+        },
+        "debut": "2010",
+        "id": "6715fc1faf69bb50508b79d2",
+        "division": {
+            "name": "Super Bantamweight",
+            "slug": "super-bantamweight",
+            "weight_lb": 122,
+            "weight_kg": 55.34,
+            "id": "671513530ad13034eb88264f"
+        },
+        "titles": []
+    },
+    {
+        "name": "Chantelle Cameron",
+        "age": 34,
+        "gender": "f",
+        "height": "5' 8\" / 172 cm",
+        "nationality": "England",
+        "nickname": null,
+        "reach": "68.9\" / 175 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 20,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 20,
+            "total_rounds": 155,
+            "ko_percentage": 42,
+            "ko_wins": 8,
+            "stopped": 0
+        },
+        "debut": "2017",
+        "id": "6715fc1faf69bb50508b79d6",
+        "division": {
+            "name": "Super Lightweight",
+            "slug": "super-lightweight",
+            "weight_lb": 140,
+            "weight_kg": 63.5,
+            "id": "671513530ad13034eb882653"
+        },
+        "titles": []
+    },
+    {
+        "name": "Liam Cameron",
+        "age": 34,
+        "gender": "m",
+        "height": "6' 0\" / 183 cm",
+        "nationality": "England",
+        "nickname": null,
+        "reach": "-",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 23,
+            "losses": 7,
+            "draws": 1,
+            "total_bouts": 31,
+            "total_rounds": 181,
+            "ko_percentage": 43,
+            "ko_wins": 10,
+            "stopped": 1
+        },
+        "debut": "2009",
+        "id": "6715fc1faf69bb50508b79d7",
+        "division": {
+            "name": "Light Heavyweight",
+            "slug": "light-heavyweight",
+            "weight_lb": 175,
+            "weight_kg": 79.38,
+            "id": "671513530ad13034eb882658"
+        },
+        "titles": []
+    },
+    {
+        "name": "Carlos Canizales",
+        "age": 32,
+        "gender": "m",
+        "height": "5' 3\" / 160 cm",
+        "nationality": "Venezuela",
+        "nickname": null,
+        "reach": "64.6\" / 164 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 27,
+            "losses": 3,
+            "draws": 1,
+            "total_bouts": 31,
+            "total_rounds": 181,
+            "ko_percentage": 70,
+            "ko_wins": 19,
+            "stopped": 1
+        },
+        "debut": "2014",
+        "id": "6715fc1faf69bb50508b79db",
+        "division": {
+            "name": "Junior Flyweight",
+            "slug": "junior-flyweight",
+            "weight_lb": 108,
+            "weight_kg": 49.1,
+            "id": "671513530ad13034eb88264b"
+        },
+        "titles": [
+            {
+                "name": "WBC World Light Flyweight Champion",
+                "id": "67153e83af69bb50508b7944"
+            }
+        ]
+    },
+    {
+        "name": "Alycia Baumgardner",
+        "age": 30,
+        "gender": "f",
+        "height": "5' 6\" / 168 cm",
+        "nationality": "United States",
+        "nickname": null,
+        "reach": "66.1\" / 168 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 16,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 17,
+            "ko_percentage": 44,
+            "ko_wins": 7,
+            "stopped": 0
+        },
+        "debut": "2017",
+        "id": "6715fc1eaf69bb50508b799e",
+        "division": {
+            "name": "Super Featherweight",
+            "slug": "super-featherweight",
+            "weight_lb": 130,
+            "weight_kg": 58.97,
+            "id": "671513530ad13034eb882651"
+        },
+        "titles": []
+    },
+    {
+        "name": "Tony Bellew",
+        "age": 41,
+        "gender": "m",
+        "height": "6' 3\" / 191 cm",
+        "nationality": "United Kingdom",
+        "nickname": null,
+        "reach": "74\" / 188 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 30,
+            "losses": 3,
+            "draws": 1,
+            "total_bouts": 34,
+            "ko_percentage": 67,
+            "ko_wins": 20,
+            "stopped": 2
+        },
+        "debut": "2007",
+        "id": "6715fc1eaf69bb50508b79a2",
+        "division": {
+            "name": "Cruiserweight",
+            "slug": "cruiserweight",
+            "weight_lb": 200,
+            "weight_kg": 90.72,
+            "id": "671513530ad13034eb882659"
+        },
+        "titles": []
+    },
+    {
+        "name": "Jose Benavidez Jr",
+        "age": 32,
+        "gender": "m",
+        "height": "6' 2\" / 188 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "72.8\" / 185 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 29,
+            "losses": 3,
+            "draws": 1,
+            "total_bouts": 33,
+            "ko_percentage": 69,
+            "ko_wins": 20,
+            "stopped": 1
+        },
+        "debut": "2010",
+        "id": "6715fc1eaf69bb50508b79a6",
+        "division": {
+            "name": "Middleweight",
+            "slug": "middleweight",
+            "weight_lb": 160,
+            "weight_kg": 72.57,
+            "id": "671513530ad13034eb882656"
+        },
+        "titles": []
+    },
+    {
+        "name": "Conor Benn",
+        "age": 28,
+        "gender": "m",
+        "height": "5' 8\" / 173 cm",
+        "nationality": "England",
+        "nickname": null,
+        "reach": "68.1\" / 173 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 23,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 24,
+            "total_rounds": 118,
+            "ko_percentage": 61,
+            "ko_wins": 14,
+            "stopped": 0
+        },
+        "debut": "2016",
+        "id": "6715fc1eaf69bb50508b79a7",
+        "division": {
+            "name": "Welterweight",
+            "slug": "welterweight",
+            "weight_lb": 147,
+            "weight_kg": 66.68,
+            "id": "671513530ad13034eb882654"
+        },
+        "titles": []
+    },
+    {
+        "name": "Denzel Bentley",
+        "age": 30,
+        "gender": "m",
+        "height": "5' 10\" / 178 cm",
+        "nationality": "England",
+        "nickname": null,
+        "reach": "72\" / 183 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 21,
+            "losses": 3,
+            "draws": 1,
+            "total_bouts": 25,
+            "total_rounds": 109,
+            "ko_percentage": 81,
+            "ko_wins": 17,
+            "stopped": 1
+        },
+        "debut": "2017",
+        "id": "6715fc1eaf69bb50508b79a8",
+        "division": {
+            "name": "Middleweight",
+            "slug": "middleweight",
+            "weight_lb": 160,
+            "weight_kg": 72.57,
+            "id": "671513530ad13034eb882656"
+        },
+        "titles": []
+    },
+    {
+        "name": "Miguel Berchelt",
+        "age": 32,
+        "gender": "m",
+        "height": "5' 7\" / 170 cm",
+        "nationality": "Mexico",
+        "nickname": null,
+        "reach": "70.9\" / 180 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 41,
+            "losses": 3,
+            "draws": 0,
+            "total_bouts": 44,
+            "ko_percentage": 90,
+            "ko_wins": 37,
+            "stopped": 3
+        },
+        "debut": "2010",
+        "id": "6715fc1eaf69bb50508b79a9",
+        "division": {
+            "name": "Lightweight",
+            "slug": "lightweight",
+            "weight_lb": 135,
+            "weight_kg": 61.23,
+            "id": "671513530ad13034eb882652"
+        },
+        "titles": []
+    },
+    {
+        "name": "Edgar Berlanga",
+        "age": 28,
+        "gender": "m",
+        "height": "6' 1\" / 185 cm",
+        "nationality": "United States",
+        "nickname": null,
+        "reach": "72.8\" / 185 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 23,
+            "losses": 1,
+            "draws": 0,
+            "total_bouts": 24,
+            "total_rounds": 85,
+            "ko_percentage": 74,
+            "ko_wins": 17,
+            "stopped": 0
+        },
+        "debut": "2016",
+        "id": "6715fc1eaf69bb50508b79ab",
+        "division": {
+            "name": "Super Middleweight",
+            "slug": "super-middleweight",
+            "weight_lb": 168,
+            "weight_kg": 76.2,
+            "id": "671513530ad13034eb882657"
+        },
+        "titles": []
+    },
+    {
+        "name": "Chris Billam-Smith",
+        "age": 34,
+        "gender": "m",
+        "height": "6' 3\" / 191 cm",
+        "nationality": "United Kingdom",
+        "nickname": null,
+        "reach": "75.2\" / 191 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 20,
+            "losses": 2,
+            "draws": 0,
+            "total_bouts": 22,
+            "ko_percentage": 65,
+            "ko_wins": 13,
+            "stopped": 0
+        },
+        "debut": "2017",
+        "id": "6715fc1eaf69bb50508b79b1",
+        "division": {
+            "name": "Cruiserweight",
+            "slug": "cruiserweight",
+            "weight_lb": 200,
+            "weight_kg": 90.72,
+            "id": "671513530ad13034eb882659"
+        },
+        "titles": []
+    },
+    {
+        "name": "Serhii Bohachuk",
+        "age": 29,
+        "gender": "m",
+        "height": "6' 0\" / 183 cm",
+        "nationality": "Ukraine",
+        "nickname": null,
+        "reach": "72.8\" / 185 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 25,
+            "losses": 2,
+            "draws": 0,
+            "total_bouts": 27,
+            "ko_percentage": 96,
+            "ko_wins": 24,
+            "stopped": 1
+        },
+        "debut": "2017",
+        "id": "6715fc1eaf69bb50508b79b4",
+        "division": {
+            "name": "Super Welterweight",
+            "slug": "super-welterweight",
+            "weight_lb": 154,
+            "weight_kg": 69.85,
+            "id": "671513530ad13034eb882655"
+        },
+        "titles": []
+    },
+    {
+        "name": "Ricards Bolotniks",
+        "age": 34,
+        "gender": "m",
+        "height": "6' 1\" / 185 cm",
+        "nationality": "Latvia",
+        "nickname": null,
+        "reach": "72.8\" / 185 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 20,
+            "losses": 8,
+            "draws": 1,
+            "total_bouts": 29,
+            "ko_percentage": 40,
+            "ko_wins": 8,
+            "stopped": 6
+        },
+        "debut": "2013",
+        "id": "6715fc1eaf69bb50508b79b5",
+        "division": {
+            "name": "Light Heavyweight",
+            "slug": "light-heavyweight",
+            "weight_lb": 175,
+            "weight_kg": 79.38,
+            "id": "671513530ad13034eb882658"
+        },
+        "titles": []
+    },
+    {
+        "name": "Philip Bowes",
+        "age": 40,
+        "gender": "m",
+        "height": "5' 11\" / 180 cm",
+        "nationality": "United Kingdom",
+        "nickname": null,
+        "reach": "-",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 20,
+            "losses": 4,
+            "draws": 0,
+            "total_bouts": 24,
+            "ko_percentage": 15,
+            "ko_wins": 3,
+            "stopped": 1
+        },
+        "debut": "2011",
+        "id": "6715fc1eaf69bb50508b79b7",
+        "division": {
+            "name": "Super Lightweight",
+            "slug": "super-lightweight",
+            "weight_lb": 140,
+            "weight_kg": 63.5,
+            "id": "671513530ad13034eb882653"
+        },
+        "titles": []
+    },
+    {
+        "name": "Juergen Braehmer",
+        "age": 46,
+        "gender": "m",
+        "height": "5' 11\" / 181 cm",
+        "nationality": "Germany",
+        "nickname": null,
+        "reach": "71.3\" / 181 cm",
+        "stance": "southpaw",
+        "stats": {
+            "wins": 52,
+            "losses": 3,
+            "draws": 0,
+            "total_bouts": 55,
+            "ko_percentage": 73,
+            "ko_wins": 38,
+            "stopped": 1
+        },
+        "debut": "1999",
+        "id": "6715fc1eaf69bb50508b79b9",
+        "division": {
+            "name": "Super Middleweight",
+            "slug": "super-middleweight",
+            "weight_lb": 168,
+            "weight_kg": 76.2,
+            "id": "671513530ad13034eb882657"
+        },
+        "titles": []
+    },
+    {
+        "name": "Shannon Briggs",
+        "age": 52,
+        "gender": "m",
+        "height": "6' 4\" / 193 cm",
+        "nationality": "USA",
+        "nickname": null,
+        "reach": "79.9\" / 203 cm",
+        "stance": "orthodox",
+        "stats": {
+            "wins": 60,
+            "losses": 6,
+            "draws": 1,
+            "total_bouts": 67,
+            "ko_percentage": 88,
+            "ko_wins": 53,
+            "stopped": 2
+        },
+        "debut": "1992",
+        "id": "6715fc1faf69bb50508b79bf",
+        "division": {
+            "name": "Heavyweight",
+            "slug": "heavyweight",
+            "weight_lb": null,
+            "weight_kg": null,
+            "id": "671513530ad13034eb88265a"
+        },
+        "titles": []
+    }
+]
