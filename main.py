@@ -16,17 +16,11 @@ def fighters():
     endpoint_url = FIGHTERS_URL
 
     data = requests.get(endpoint_url, headers=HEADERS)
-    print(data)
-    print(data.status_code)
-    print(data.json())
 
 def divisions():
     endpoint_url = DIVISIONS_URL
 
     data = requests.get(endpoint_url, headers=HEADERS)
-    print(data)
-    print(data.status_code)
-    print(data.json())
 
     file_path = "weight_class.json"
     with open(file_path, "w") as json_file:
@@ -36,7 +30,6 @@ def read_weight_class():
     try:
         with open('weight_class.json', 'r') as f:
             data = json.load(f)
-        print(len(data))
         return data
     except FileNotFoundError:
         print("Error: 'your_file.json' not found.")
@@ -62,9 +55,6 @@ def weight_class_boxers_to_json():
                 'page_size': 100
             }
             data = requests.get(endpoint_url, headers=HEADERS, params=params)
-            print(data)
-            print(data.status_code)
-            print(data.json())
 
             file_path = f"{class_name}.json"
             with open(file_path, "w") as json_file:
@@ -120,7 +110,6 @@ def json_to_final_csv():
         print("Error: Invalid JSON format in 'your_file.json'.")
     finally:
         df = pd.DataFrame(data, columns=columns)
-        print(len(df))
         df.to_csv("fighters_data.csv", index= False)
 
 def main():
