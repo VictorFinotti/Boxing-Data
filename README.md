@@ -10,7 +10,7 @@
 ## 🎯 Business Problem
 *How to help people learn about boxing*
 
-**Problem**: [People may feel insecure about where to begin and want reassurance about their choices]
+**Problem**: [People may feel insecure about where to begin and want reassurance about their choices]  
 **Objective**: [To compile data in order to give well informed indications and suggestions]  
 **Stakeholders**: [Companies focused growing and transforming sport as a vehicle for social impact]  
 
